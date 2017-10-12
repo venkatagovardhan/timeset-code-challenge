@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Newsfeed</key>
+	<array>
+		<dict>
+			<key>userimage</key>
+			<string>u1.jpg</string>
+			<key>username</key>
+			<string>tatemodern</string>
+			<key>bigimage</key>
+			<string>B1.jpg</string>
+			<key>smallimage1</key>
+			<string>s11.jpg</string>
+			<key>smallimage2</key>
+			<string>s21.jpg</string>
+			<key>smallimage3</key>
+			<string>s31.jpg</string>
+			<key>post</key>
+			<string>Check out my new BucketLitst Tate Britain</string>
+		</dict>
+		<dict>
+			<key>userimage</key>
+			<string>u2.jpg</string>
+			<key>username</key>
+			<string>natgalleryofart</string>
+			<key>bigimage</key>
+			<string>b2.jpg</string>
+			<key>smallimage1</key>
+			<string>s12.jpg</string>
+			<key>smallimage2</key>
+			<string>s22.jpg</string>
+			<key>smallimage3</key>
+			<string></string>
+			<key>post</key>
+			<string>Check out mynew Buctketlist: collcetion Highlights, kaufman collection, west buildings, ground floor.      &amp;collection-highlight-kaufman-collection-west-building-ground-floor. This short tour highlights eleven items from the promised gift of the kaufman collection of American decorative arts.</string>
+		</dict>
+		<dict>
+			<key>userimage</key>
+			<string>u3.jpg</string>
+			<key>username</key>
+			<string>gezireh</string>
+			<key>bigimage</key>
+			<string>b3.jpg</string>
+			<key>smallimage1</key>
+			<string>s13.jpg</string>
+			<key>smallimage2</key>
+			<string>s23.jpg</string>
+			<key>smallimage3</key>
+			<string></string>
+			<key>post</key>
+			<string>Milano,Milan,Italy</string>
+		</dict>
+		<dict>
+			<key>userimage</key>
+			<string>u4.jpg</string>
+			<key>username</key>
+			<string>beyonce</string>
+			<key>bigimage</key>
+			<string>b4,jpg</string>
+			<key>smallimage1</key>
+			<string>s14.jpg</string>
+			<key>smallimage2</key>
+			<string>s24.jpg</string>
+			<key>smallimage3</key>
+			<string></string>
+			<key>post</key>
+			<string>beyonce</string>
+		</dict>
+		<dict>
+			<key>userimage</key>
+			<string>u5.jpg</string>
+			<key>username</key>
+			<string>photografevreni</string>
+			<key>bigimage</key>
+			<string>b5.jpg</string>
+			<key>smallimage1</key>
+			<string>s15.jpg</string>
+			<key>smallimage2</key>
+			<string>s25.jpg</string>
+			<key>smallimage3</key>
+			<string>s35.jpg</string>
+			<key>post</key>
+			<string>Victoria secret  &amp;victoria secrt victoria secret</string>
+		</dict>
+		<dict>
+			<key>userimage</key>
+			<string>u6.jpg</string>
+			<key>username</key>
+			<string>peteaux</string>
+			<key>bigimage</key>
+			<string>b6.jpg</string>
+			<key>smallimage1</key>
+			<string>s16.jpg</string>
+			<key>smallimage2</key>
+			<string>s26.jpg</string>
+			<key>smallimage3</key>
+			<string></string>
+			<key>post</key>
+			<string>Blrair alise(detroit) 2016 Seen Sence Fest(capertured)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
